@@ -1,0 +1,16 @@
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\obj\Debug\net5.0\Concepts.csproj.AssemblyReference.cache
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\obj\Debug\net5.0\Concepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\obj\Debug\net5.0\Concepts.AssemblyInfoInputs.cache
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\obj\Debug\net5.0\Concepts.AssemblyInfo.cs
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\obj\Debug\net5.0\Concepts.csproj.CoreCompileInputs.cache
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\bin\Debug\net5.0\Concepts.exe
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\bin\Debug\net5.0\Concepts.deps.json
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\bin\Debug\net5.0\Concepts.runtimeconfig.json
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\bin\Debug\net5.0\Concepts.runtimeconfig.dev.json
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\bin\Debug\net5.0\Concepts.dll
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\bin\Debug\net5.0\ref\Concepts.dll
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\bin\Debug\net5.0\Concepts.pdb
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\obj\Debug\net5.0\Concepts.dll
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\obj\Debug\net5.0\ref\Concepts.dll
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\obj\Debug\net5.0\Concepts.pdb
+C:\Users\Delli7\Desktop\Practice the concepts in c sharp\Concepts\obj\Debug\net5.0\Concepts.genruntimeconfig.cache
